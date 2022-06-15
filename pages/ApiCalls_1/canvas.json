@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "Page1",
-    "slug": "page1",
+    "name": "ApiCalls_1",
+    "slug": "apicalls-1",
     "layouts": [
       {
         "viewMode": false,
@@ -27,17 +27,21 @@
           "children": []
         },
         "layoutOnLoadActions": [],
+        "widgetNames": [
+          "MainContainer"
+        ],
         "validOnPageLoadActions": true,
-        "id": "Page1",
+        "id": "ApiCalls_1",
         "deleted": false,
         "policies": [],
         "userPermissions": []
       }
     ],
     "userPermissions": [],
-    "policies": []
+    "policies": [],
+    "isHidden": false
   },
   "deleted": false,
   "policies": [],
-  "gitSyncId": "62a9c96ec8a30d5cc3841f25_62a9c9d3c8a30d5cc3841f46"
+  "gitSyncId": "62a9c96ec8a30d5cc3841f25_62a9c9a1c8a30d5cc3841f40"
 }
